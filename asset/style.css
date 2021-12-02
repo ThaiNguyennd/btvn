@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+/* css for footer home */
+footer ul{
+    list-style: none;
+}
+footer a{
+    text-decoration: none;
+}
+/* css for post.html */
+.main-post .row button{
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fefefe;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 7px;
+}
